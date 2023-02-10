@@ -1,8 +1,6 @@
 # BC_tamoxifen_response
 
-This repository is for ER+ breast cancer scRNA-seq data processing and generation of figures.
-
-The general flow of data processing and figure generation is (step1) scRNA-seq data processing from 10x Genomics scRNA-seq FASTQ files, (step2) figure generation.
+This repository is for ER+ breast cancer scRNA-seq data processing from 10x Genomics scRNA-seq FASTQ files and generation of figures.
 
 
 
